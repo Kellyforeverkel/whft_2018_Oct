@@ -10,3 +10,7 @@ By showing detailed design calculation, provide the following design parameters 
 State all your assumption.
 
 ## Solution (Write your solution here).
+P= (1/2)(CpP)(V^3)(A) W
+Cp= 16/27 = 0.593
+
+
